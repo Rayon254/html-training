@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My profile</title>
+</head>
+<body>
+    <img src="pic.jpeg.jpg"
+<h1> Rayon Kiplagat</h1>
+    <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Quod atque officiis harum voluptates, officia iste illo a 
+        ipsa vero quis autem fugiat quam magnam ex ducimus alias 
+        neque iusto architecto! 
+
+    </p>
+    <h2> Skills</h2>
+    <ul>
+        <li> HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+    </ul>
+
+<table>  <th>Projects Completed</th>
+</table>
+</body>
+</html>
